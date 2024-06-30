@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E8TLH0X)
 # Grok-1
 
 This repository contains JAX example code for loading and running the Grok-1 open-weights model.
